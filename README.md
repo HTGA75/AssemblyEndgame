@@ -5,15 +5,19 @@ npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## About Assembly Endgame
+Assembly Endgame is a fun and interactive word-guessing game built as the capstone project for the Scrimba React 19 Course. The objective is simple: guess the word by pressing the on-screen keys.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+But there’s a twist!
+Every wrong guess eliminates a programming language from existence. If you lose, only Assembly Language remains, marking the "endgame" for all other languages.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+### Key Features
+Interactive Gameplay: Guess the word by selecting letters from a virtual keyboard.
+Progressive Elimination: Watch popular programming languages disappear with every incorrect guess.
+Dynamic UI: React-powered interface for a seamless and responsive gaming experience.
+Victory or Assembly: Win by guessing the word correctly or lose and witness the rise of Assembly as the last surviving language.
+Technologies Used
+React 19: Build and manage UI components.
+JavaScript (ES6): Game logic and interactivity.
+CSS Modules: Responsive and modular styling.
+Play, learn, and experience the dramatic showdown of programming languages in Assembly Endgame! Contributions and feedback are welcome.
