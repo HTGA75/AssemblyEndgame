@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/844c4eee-7a59-4188-884c-7fd211028b9b)
+
 # Getting Started
 Install the dependencies and run the project
 ```
